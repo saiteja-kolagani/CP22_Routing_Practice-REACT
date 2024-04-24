@@ -1,0 +1,16 @@
+/* Write your CSS code here */
+.about-image {
+  width: 220px;
+}
+.about-text {
+  margin-top: 30px;
+  color: #551e53;
+}
+.about-container {
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 40px;
+}
